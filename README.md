@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Shanghai China.
-- 💬 Ask me about front-end, I'm good at Vue.
+- 💬 Ask me about front-end, I'm good at Vue and React.
 - 👯 I’m looking to collaborate on any project.
 - 📫 Reach me by email thinkmars@126.com.
 
